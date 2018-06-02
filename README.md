@@ -14,7 +14,7 @@ Software Requirements -
 1) Custom Vision API on Azure/ Self trained model (Go for retraining Google Inception v3)
 2) Any possible data base on cloud.
 3) Magic Mirror/ Build your own modules using javaScript.(https://magicmirror.builders/)
-4) Node RED or IBM Watson for real time analytics. (We used an .NET website for analytics (smartmirroranalytics.azurewebsites.io)).
+4) Node RED or IBM Watson for real time analytics. (We used an .NET website for analytics (https://smartmirroranalytics.azurewebsites.net)).
 
 
 
